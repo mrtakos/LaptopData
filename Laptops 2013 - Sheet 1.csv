@@ -1,0 +1,20 @@
+Make,Model,Proc,Clock,Ram,Price,Battery Hr,Weight,Screen,Brand,Touch,Battery Min
+Acer,Aspire V5-171-6471,i5,1.8,6,499,3:56:00,3,11.60,62,No,236
+Acer,Aspire V5-571P-6642,i5,1.7,6,659,3:29:00,5.3,15.60,62,Yes,209
+Acer,M5 Touch,i5,2.7,6,799,6:03:00,4.6,14.00,62,Yes,363
+Alienware,M14x,i5,3.2,6,999,3:48:00,6.45,14.00,65,No,228
+Apple,Macbook Air 13,i5,1.8,4,1199,6:34:00,2.92,13.00,89,No,394
+Apple,MacBook Pro 13 Retina,i5,2.5,8,1499,6:01:00,3.57,13.00,89,No,361
+Asus,VivoBook S500 ,i5,1.7,6,659,4:43:00,4.6,15.60,72,Yes,283
+Asus,VivoBook S400,i5,1.7,4,635,4:58:00,4,14.00,72,Yes,298
+Asus,Zenbook Prime UX31A-DH51,i5,1.7,4,899,6:28:00,2.86,13.30,72,No,388
+Dell,XPS 13,i5,2.7,4,999,5:50:00,2.99,13.30,65,No,350
+Lenovo,Y500,i5,2.6,6,899,3:41:00,6.4,15.60,81,No,221
+Lenovo,ThinkPad T430s,i5,2.6,4,980,5:09:00,4,14.00,81,No,309
+Lenovo,Y400,i7,2.4,8,749,3:41:00,4.85,14.00,81,No,221
+Lenovo,IdeaPad U310 Touch,i5,1.8,4,699,5:19:00,3.6,13.30,81,Yes,319
+Lenovo,IdeaPad U410,i5,1.7,8,699,6:32:00,4.19,14.00,81,No,392
+Lenovo ,Yoga 13,i5,1.8,4,975,6:18:00,3.4,13.30,81,Yes,378
+Samsung,Series 9 13in ,i5,1.7,4,899,7:02:00,2.55,13.00,69,No,422
+Samsung,ATIV Book 9 NP900X3D-A04US,i5,1.7,4,899,7:02:00,2.49,13.30,69,No,422
+Toshiba ,Satellite U845t,i5,2.7,6,747,7:39:00,3.8,14.00,56,Yes,459

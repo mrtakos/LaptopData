@@ -1,9 +1,10 @@
 library(Hmisc)
 library(party)
 library(stats)
+library(randomForest)
 library(ggplot2)
 file <- "Laptops 2013 - Sheet 1.csv"
-setwd("F:/Downloads")
+setwd("F:/Dev/R/LaptopData")
 mydata = read.csv(file)
 summary(mydata$Battery.Min)
 str(mydata)
@@ -32,7 +33,7 @@ table(mydata$Model, kc$cluster)
 
 #plot(mydata[c("Battery.Min", "Price", "Weight")], col=kc$cluster)
 
-
+laptop.model <- randomForest(Battery.Min ~ ., data=tmp, importance=TRUE, do.trace=100)
 
 
 
